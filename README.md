@@ -34,7 +34,7 @@ Suitable for students, beginners, and anyone new to Python.
 
 Clone the repository:
 
-
+https://github.com/adhheei/python-programs.git
 
 
 Open any Python file in your IDE or text editor.
