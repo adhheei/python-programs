@@ -6,7 +6,7 @@ Basic Python Programming
 
 This repository contains beginner-friendly Python programs and examples designed to help understand the fundamentals of Python programming.
 
-📌 Features
+📌Features
 
 Covers core Python concepts:
 
